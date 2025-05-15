@@ -1,0 +1,10 @@
+
+05-14-2025 19:57:24.209700 CST ::1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\rabv_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-14-2025 19:57:30.098800 CST  [error]: referer:  ENVIO DE METODO NO AUTORIZADO 
+05-14-2025 19:57:30.103300 CST ::1 [info]: referer: http://localhost/rabv_desarrollo_de_log/ El archivo C:\xampp\htdocs\rabv_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-14-2025 19:57:34.913400 CST  [error]: referer:  ENVIO DE METODO NO AUTORIZADO 
+05-14-2025 19:57:34.917900 CST ::1 [info]: referer: http://localhost/rabv_desarrollo_de_log//?status%20=%204 El archivo C:\xampp\htdocs\rabv_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-14-2025 19:57:43.378400 CST  [error]: referer:  ENVIO DE METODO NO AUTORIZADO 
+05-14-2025 19:57:43.383800 CST ::1 [info]: referer: http://localhost/rabv_desarrollo_de_log///?status%20=%204 El archivo C:\xampp\htdocs\rabv_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-14-2025 19:57:50.111100 CST  [error]: referer:  ENVIO DE METODO NO AUTORIZADO 
+05-14-2025 19:57:50.116000 CST ::1 [info]: referer: http://localhost/rabv_desarrollo_de_log////?status%20=%204 El archivo C:\xampp\htdocs\rabv_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
